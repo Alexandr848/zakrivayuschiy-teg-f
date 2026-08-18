@@ -9,3 +9,21 @@
 ✦ button__text — для обозначения текстового элемента внутри кнопки
 
 */
+
+@keyframes pulse-heart {
+  from {
+    transform: scale(1); /* Начинаем с обычного размера */
+  }
+  to {
+    transform: scale(1.25); /* Растём до 125% */
+  }
+}
+
+@keyframes spark-flash {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
