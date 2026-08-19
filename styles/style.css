@@ -150,7 +150,7 @@
 
 }
 
-.icon{
+.icon {
   width: 21px;
   height: 21px;
   margin-right: 8px;
@@ -262,7 +262,7 @@
 }
 
 .button-animation:hover::before {
-  transform: translateX(0); 
+  transform: translateX(0);
 }
 
 .button-heart:focus {
