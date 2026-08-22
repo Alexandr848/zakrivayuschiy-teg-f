@@ -143,8 +143,8 @@
 .button-footer {
   height: 55px;
   width: clamp(300px, 23%, 380px);
-  margin-left: 39%;
-  margin-right: 39%;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 50px;
   margin-bottom: 100px;
   display: flex;
